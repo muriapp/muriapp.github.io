@@ -12,8 +12,8 @@
       "open_ads"                  : "ca-app-pub-4403678749038193/2378088695",
 
       "backup_ads_banner"         : "YOUR_PLACEMENT_ID",
-      "backup_ads_intertitial"    : "YOUR_PLACEMENT_ID",
-      "backup_ads_native"         : "YOUR_PLACEMENT_ID",
+      "backup_ads_intertitial"    : "8c8d521a1dd38245",
+      "backup_ads_native"         : "5abf1fc62ed7bd14",
       
       "initialize_sdk"            : "",
       "initialize_sdk_backup_ads" : "",
